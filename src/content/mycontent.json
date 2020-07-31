@@ -9,9 +9,9 @@
 	"BackgroundURL": "",
 
 	"WorkContent": [
-		"I am currently full time saviour of Earth."
+		""
 	],
-	"WorkImage": "https://i.imgur.com/1QRDBCz.png",
+	"WorkImage": "",
 
 	"AboutImage": "https://i.imgur.com/mwtsqBG.jpg",
 	"AboutContent": [
@@ -22,26 +22,26 @@
 
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
-			"name": "Avengers",
-			"link": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+			"name": "Peacock Solar",
+			"link": "https://www.peacock.solar/"
 		},
 		{
-			"name": "S.H.I.E.L.D.",
-			"link": "https://en.wikipedia.org/wiki/S.H.I.E.L.D."
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "Marvel",
-			"link": "www.marvel.com"
+			"name": "",
+			"link": ""
 		}
 	],
-	"ProjectsStartLine": "Some of my hobby bots are  :",
+	"ProjectsStartLine": "",
 	"Projects": [{
-			"name": "JARVIS",
-			"link": "https://marvel-movies.fandom.com/wiki/Just_A_Rather_Very_Intelligent_System"
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "FRIDAY",
-			"link": "https://marvelcinematicuniverse.fandom.com/wiki/F.R.I.D.A.Y."
+			"name": "",
+			"link": ""
 		}
 	],
 
@@ -49,12 +49,12 @@
 	"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
 	"Resume": "https://i.imgur.com/FtXmj.jpg",
 
-	"emailid": "mailto:tony@starkindustries.com",
-	"linkedin": "",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
+	"emailid": "mailto:priya_ug@ee.nits.ac.in",
+	"linkedin": "https://www.linkedin.com/in/priya-nath-21382a146/",
+	"wordpress": "",
+	"facebook": "https://www.facebook.com/priyanath22/",
 	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/RobertDowneyJr",
-	"medium": "https://medium.com/@ketkaraditya"
+	"instagram": "",
+	"twitter": "",
+	"medium": ""
 }
