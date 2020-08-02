@@ -2,8 +2,8 @@
 	"Title": "Priya Nath | Personal Webpage",
 	"Name": "Priya Nath",
 	"Description": [
-		"Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics.", 
-		"The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby"
+		"B.Tech Final year student at NIT Silchar.", 
+		"Curious about new stuffs, eager to learn and grow."
 	],
 	"MainImage": "",
 	"BackgroundURL": "",
@@ -13,48 +13,41 @@
 	],
 	"WorkImage": "",
 
-	"AboutImage": "https://i.imgur.com/mwtsqBG.jpg",
+	"AboutImage": "https://imgur.com/RDCMBI4",
 	"AboutContent": [
-		"I am a billionaire industrialist and inventor. Former CEO of Stark Industries, a conglomerate originally started by my father, Howard Stark.",
-		"I am still human, with the exception of an Arc Reactor in my chest.",
-		"In order to stop Thanos once and for all, I sacrificed myself to use the Infinity Stones to disintegrate the Mad Titan and his army"
+		"I am an Electrical Engineering final year Undergraduate at NIT Silchar, a Chess player and an amateur artist.",
+		"",
+		"I am curious about new technology and willing to work to learn and grow in every possible aspect."
 	],
 
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
 			"name": "Peacock Solar",
 			"link": "https://www.peacock.solar/"
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
 		}
+		
 	],
-	"ProjectsStartLine": "",
-	"Projects": [{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		}
-	],
+	//"ProjectsStartLine": "",
+	//"Projects": [{
+	//		"name": "",
+	//		"link": ""
+	//	},
+	//	{
+	//		"name": "",
+	//		"link": ""
+	//	}
+	//],
 
-	"CVStartLine": "I am always open to collaborations involving saving the world. Feel free to reach out if you want to work at Stark :)",
-	"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
+	"CVStartLine": "I am always open to work in my best possible way. Feel free to reach out if you look forward to work together :)",
+	//"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
 	"Resume": "https://i.imgur.com/FtXmj.jpg",
 
 	"emailid": "mailto:priya_ug@ee.nits.ac.in",
 	"linkedin": "https://www.linkedin.com/in/priya-nath-21382a146/",
 	"wordpress": "",
 	"facebook": "https://www.facebook.com/priyanath22/",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "",
-	"twitter": "",
-	"medium": ""
+	//"github": "https://github.com/adityaketkar",
+	//"instagram": "",
+	//"twitter": "",
+	//"medium": ""
 }
