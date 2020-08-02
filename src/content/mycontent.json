@@ -2,7 +2,7 @@
 	"Title": "Priya Nath | Personal Webpage",
 	"Name": "Priya Nath",
 	"Description": [
-		"B.Tech Final year student at NIT Silchar.", 
+		"B.Tech Final year student at NIT Silchar.",
 		"Curious about new stuffs, eager to learn and grow."
 	],
 	"MainImage": "",
@@ -25,29 +25,14 @@
 			"name": "Peacock Solar",
 			"link": "https://www.peacock.solar/"
 		}
-		
+
 	],
-	\"ProjectsStartLine": "",
-	\"Projects": [{
-	\		"name": "",
-	//		"link": ""
-	//	},
-	//	{
-	//		"name": "",
-	//		"link": ""
-	//	}
-	//],
+
 
 	"CVStartLine": "I am always open to work in my best possible way. Feel free to reach out if you look forward to work together :)",
-	//"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
 	"Resume": "https://i.imgur.com/FtXmj.jpg",
-
 	"emailid": "mailto:priya_ug@ee.nits.ac.in",
 	"linkedin": "https://www.linkedin.com/in/priya-nath-21382a146/",
 	"wordpress": "",
-	"facebook": "https://www.facebook.com/priyanath22/",
-	//"github": "https://github.com/adityaketkar",
-	//"instagram": "",
-	//"twitter": "",
-	//"medium": ""
+	"facebook": "https://www.facebook.com/priyanath22/"
 }
